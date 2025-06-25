@@ -1,0 +1,161 @@
+[
+  {
+    "name": "売る",
+    "price": 0,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5027.jpg",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5027.jpg",
+    "type": "transaction",
+    "attackPower": 10
+  },
+  {
+    "name": "買う",
+    "price": 0,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5028.jpg",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5028.jpg",
+    "type": "transaction",
+    "attackPower": 10
+  },
+  {
+    "name": "両替",
+    "price": 0,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5026.jpg",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5026.jpg",
+    "type": "transaction",
+    "attackPower": 10
+  },
+  {
+    "name": "銅のこん棒",
+    "type": "attack",
+    "attackPower": 1,
+    "price": 1,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5029-1.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5029-1.png"
+  },
+  {
+    "name": "銀のこん棒",
+    "type": "attack",
+    "attackPower": 1,
+    "price": 10,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5030.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5030.png"
+  },
+  {
+    "name": "金のこん棒",
+    "type": "attack",
+    "attackPower": 1,
+    "price": 25,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5031.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5031.png"
+  },
+  {
+    "name": "吹き矢",
+    "type": "yokoyari",
+    "attackPower": 1,
+    "price": 1,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5032.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5032.png"
+  },
+    {
+    "name": "ムチ",
+    "type": "attack",
+    "attackPower": 2,
+    "price": 1,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5033.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5033.png"
+  },
+  {
+    "name": "セイバーロッド",
+    "type": "both",
+    "attackPower": 2,
+    "defensePower": 6,
+    "canDefend": true,
+    "price": 10,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5034.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5034.png"
+  },
+  {
+    "name": "クロスボウ",
+    "type": "yokoyari",
+    "attackPower": 2,
+    "price": 2,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5035.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5035.png"
+  },
+  {
+    "name": "パンチ",
+    "type": "attack",
+    "attackPower": 3,
+    "price": 1,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5036.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5036.png"
+  },
+  {
+    "name": "のこぶんぶん",
+    "type": "attack",
+    "attackPower": 3,
+    "price": 10,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5037.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5037.png"
+  },
+  {
+    "name": "ブーメラン",
+    "type": "yokoyari",
+    "attackPower": 3,
+    "price": 3,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5038.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5038.png"
+  },
+    {
+    "name": "ハチェット",
+    "type": "attack",
+    "attackPower": 4,
+    "price": 2,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5039.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5039.png"
+  },
+  {
+    "name": "とげベルト",
+    "type": "both",
+    "attackPower": 4,
+    "defensePower": 2,
+    "price": 3,
+    "canDefend": true,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5040.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5040.png"
+  },
+  {
+    "name": "バトルボール",
+    "type": "yokoyari",
+    "attackPower": 4,
+    "price": 4,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5041.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5041.png"
+  },
+  {
+    "name": "鎖ガマ",
+    "type": "attack",
+    "attackPower": 5,
+    "price": 2,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5042.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5042.png"
+  },
+  {
+    "name": "打撃の鉄板",
+    "type": "both",
+    "attackPower": 5,
+    "defensePower": 7,
+    "price": 3,
+    "canDefend": true,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5043.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5043.png"
+  },
+  {
+    "name": "乱弾武剣",
+    "type": "reflect",
+    "attackPower": 5,
+    "reflectChance": 50,
+    "price": 10,
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5044.png",
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5044.png"
+  }
+]

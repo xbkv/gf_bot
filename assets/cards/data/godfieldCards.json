@@ -1,0 +1,22 @@
+[
+  {
+    "name": "両替",
+    "type": "transaction",
+    "attackPower": 10,
+    "durability": 1,
+    "path": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5026.jpg",
+    "iconUrl": "https://godfield.gamewiki.jp/wp-content/uploads/IMG_5026.jpg"
+  },
+  {
+    "name": "ハリセン",
+    "type": "tool",
+    "effect": "相手の手札を1枚ランダムで捨てさせる",
+    "image": "assets/cards/images/harisen.png"
+  },
+  {
+    "name": "ねこ",
+    "type": "tool",
+    "effect": "何かいいことが起きるかもしれない",
+    "image": "assets/cards/images/neko.png"
+  }
+]

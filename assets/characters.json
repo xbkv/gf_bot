@@ -1,0 +1,1640 @@
+[
+    {
+        "name": "聖矢",
+        "description": "昔はとんでもないネタキャラでインキャだった。カジノに一発50万円がけして負けた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d390b04d-1139-427f-b722-c701210e8909.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "拗らせキッズ",
+        "description": "『おはよーございます！』と叫ぶ声が高いガキ。てきてきの二番煎じと言われていた時期もあった。実は男らしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7a1d9746-369d-40ed-b29e-58560be2d901.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "ニックネームを入力",
+        "description": "えりざべすの女",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/954cdded-e2e8-48c5-b9bd-cd0956530353.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 2
+    },
+    {
+        "name": "トークン",
+        "description": "未成年を連れ回して逮捕された男。自分の息子をバカにしたやつを許さないほど息子が大好きなお父さん",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/427ca381-c14a-4551-80c7-93765bb53c0b.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 35
+    },
+    {
+        "name": "一方通行ようた",
+        "description": "煽りセンスが高い。文言が敬語だからめちゃくちゃおもしろい。色んな所で有名らしい",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/01e6f82f-32cf-4c8f-84d3-f808e3fe3068.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "勇者",
+        "description": "弱いくせに喧嘩を売る自分の実力がわかっていない雑魚。自分に対して一回でも害を被られると一生粘着するネチネチ男。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/79e81d6f-d733-4589-882b-be94120e0b3c.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 1
+    },
+    {
+        "name": "弦",
+        "description": "Yayを永久凍結されている、声がでかい論争厨。話すと案外優しかったりもする。リムルのアイコンが似合っている人物No.1と言っても過言ではない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/4a9fd246-7c6f-4924-80e5-8db680100b22.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 28
+    },
+    {
+        "name": "接敵",
+        "description": "爆ぽめという名前で定着している。論争をふっかけなければ優しい女の子だ。声を作っているのかと聞いたら地声だと言っていた。Yayで不思議な立ち位置にいる",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/71a9c70b-398d-40ba-8ba7-357d72755831.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "あなざーえでん",
+        "description": "えでんの違うバージョン。ブルーガのアイコンが特徴的。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/872acc10-345f-46e7-8465-9d4701803544.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 14
+    },
+    {
+        "name": "sst",
+        "description": "論理力があると定評がある。人に対して謝罪をする際に「たんぼに入ったら許してやる」と言われ田んぼに入った男。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5e16aa9d-acbf-4b08-99ed-d5041d0b2948.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "カヲル",
+        "description": "Yayでたまに枠を開いている。とても有効的でいいやつ。ピアノが上手",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/28983ef4-c844-472e-a1de-44af5190b24c.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 13
+    },
+    {
+        "name": "藤井のあ",
+        "description": "エロイプをよくしている。エロイパー。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d8f29dd1-a617-445b-b3b9-09567957c9f9.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 10
+    },
+    {
+        "name": "Katsuya",
+        "description": "ブサイクで有名。空気を読めないADHDで有名。池崎などが話してるときにキモいゲイ絡みをする。まじで需要ない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2429c8f6-b1f1-402f-b1ef-c74573fad916.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "山本",
+        "description": "喧嘩が大好きなのか、関係ない話題に入って空気をぶち壊す修正がある。太っている彼女がいたが今はどうなったか知らない。いろんな喧嘩に横槍を入れるタイプだ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b2a47249-4007-4201-8622-696cd3ac2ec3.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 8
+    },
+    {
+        "name": "ぱいにゃん",
+        "description": "威闇の元カノと言われているが実際はいやみにすきすきしてただけ。塩対応らしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/cf2c9440-535a-4f42-a700-a860f0a703e3.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 5
+    },
+    {
+        "name": "壱ノ瀬",
+        "description": "『漢字のいちのせ』と呼ばれている。金を返せないやつ。大麻を吸っていることをアピールしてくる。きっとかっこいいとでも思っているのだろう。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/111af354-8571-42d4-afbb-578acadfb714.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 10
+    },
+    {
+        "name": "あくあ",
+        "description": "男のことで悩んでいる。えろいぷますたーという別名あり",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/34eda7b3-94ff-4d3f-968c-254298b93e83.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "無害",
+        "description": "昔論争界隈でトップ層と並んでいた。最初はみんなにいじめられていたが1年で上層レベルまでいった。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/54926b06-bd97-446e-a348-d23fe2581126.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 35
+    },
+    {
+        "name": "松本イサト",
+        "description": "半グレ集団『松本狂う』のリーダー。論争は苦手だが、抗争は得意。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2e1d9a30-acf9-42a5-a45a-230c1e8b6e21.jpg",
+        "rarity": "8",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 50
+    },
+    {
+        "name": "二代目だけど",
+        "description": "Yayのいじめられっこ兼サンドバック。みちこに顔をさらされていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/79aec4fb-8900-4912-b4a3-7d0fa0d944bc.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "うくらいにゃ",
+        "description": "ウクライナの偽物。ぶさ声ナンバーワン",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/17b42716-c4eb-4a14-b370-67c2c5e1b7a3.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 1
+    },
+    {
+        "name": "俺様ひろき様",
+        "description": "ラッパーとしてその名が通る。論争は苦手。論争をしてるときに困ると、「お前のことラップのネタにするからな！」と脅すらしい。ネガキャン。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/71b39ec4-65a6-40d5-ac3e-50dbe7114df1.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 40
+    },
+    {
+        "name": "姫氏原",
+        "description": "お風呂に入っているときのすっぴんの顔とメイク後の顔の差がすごい。目が左右に離れているので魚と呼ばれている",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a2e410bb-3859-4c47-9731-7b208eff1001.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 3
+    },
+    {
+        "name": "処女凸",
+        "description": "新二次元界隈の管理人。実は中身はきょ...んんんんん！！！！！！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/21fdb551-f2e4-4f52-bda9-6a590e3f028d.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "流星ボーイ",
+        "description": "中学生にリアファイを挑んでそれで勝ったことを実績だと思っているらしい。本人曰く頭いい大学に行っているらしいが実際のところはわからない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d5d12063-154d-4cc0-abc5-f38e290540c5.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 20
+    },
+    {
+        "name": "ぴるのめ",
+        "description": "俺は論争厨じゃないと言いながら論争厨",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/313762e7-5bfe-4d5c-a07f-4b090fe2a1f7.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "無名くん",
+        "description": "Yayから消された存在。通常、Web版からログインせずに入ると彼のアイコンになる。永久追放できないので害悪行為に使う輩もいた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d16f6b98-dd6e-4658-bfe2-cbfdadffe59f.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 12
+    },
+    {
+        "name": "清楚",
+        "description": "可愛いと言われている。おっさんに迫られたときに逃げるために彼氏がいると言っていたのが印象的。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8fb79785-7090-4495-9ef8-71709444e0ed.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 4
+    },
+    {
+        "name": "カジティブ",
+        "description": "特殊な声の論争厨。いやみと仲が悪い。人のことをインキャと罵るタイプ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/23c837ca-c877-42fa-a2c5-eea1c2f86e45.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "キルシュトルテ",
+        "description": "児童ポルノを自慢している酒飲みである。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/618ee91c-8792-45fa-81e4-1f578a84dc40.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 12
+    },
+    {
+        "name": "俺がお劉",
+        "description": "グループ勧誘をしていた論争厨。「IPアドレスで住所を特定する」と意気揚々と宣言していた。現在はYayにいない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/41247ecc-c54b-408b-ae8d-cbb7924c71d8.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 3
+    },
+    {
+        "name": "ヒモリン",
+        "description": "名前の通りヒモをしているらしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7a3ee659-38cc-42dd-88da-fefecd6d9674.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 1
+    },
+    {
+        "name": "カウォル",
+        "description": "論争が強いイメージがある。アイコンは本人じゃないらしい。普通に話すぶんには温厚な性格でいい人。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2b9adf72-49f6-4f81-88cd-0372acfabe66.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "ぜの",
+        "description": "威闇の側近。威闇からレターをもらうほど仲がいい。えでんのことをどげとゅげとバカにしていた。今は投獄中。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/dfae9d90-8f96-4bb4-819d-93a28aed94ee.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 14
+    },
+    {
+        "name": "松本Killer",
+        "description": "クチャラーで自分語りをする。たわしいじりが嫌い。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/1794e195-eebb-46cf-8ea3-ccccdf7e99cb.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "マクドおさる",
+        "description": "Discord鯖で何万円分マックを配りまくっていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/78047a61-b3c6-4092-94a1-c7c00d8a1c11.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 20
+    },
+    {
+        "name": "ウイルス",
+        "description": "『ウイルス』で定着している。曲を作っているらしい。Yayをやめるか決断を渋っている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0942d74c-e1d4-430b-b0ca-f81f3a69791c.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 1
+    },
+    {
+        "name": "かんとう",
+        "description": "そんなかっこよくないのにイキっている。複数でかかってくる卑怯者。逃げるなー！逃げるな卑怯者！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/23dfbea1-93b9-4f7a-a147-be333029bf80.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "茜ぺんぺん",
+        "description": "私情でユーザーをバンするゴミ運営。運営の中でもトップで嫌われている。のあぺんぺんの足元にも及ばない。最近出産した。年の割にはきれい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/fa142c9f-db9f-4b08-9676-88519e04dc82.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 35
+    },
+    {
+        "name": "メリージェーン",
+        "description": "威闇がいう「潰す」はYayで晒すことなどだが、この人が言う潰すは相手のアカウントをBANすることである。ひま部の最強格としてYayでもエントリー。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0d66a456-9de9-4224-83f1-b941bcacfd44.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 35
+    },
+    {
+        "name": "爆音トトロ",
+        "description": "今彼の中ではチンチラが来てるらしい。爆音がでかい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0fca94b6-f030-40b5-9448-44864184d7da.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "全裸反橋自慰行為",
+        "description": "ぜんらブリッジオナニーというぶっ飛んだ名前をしている。いつも自分が嫌われないように最善の注意を払っている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a0f02900-fa96-4a13-9c5a-0db98a060d38.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 4
+    },
+    {
+        "name": "偏差値38",
+        "description": "名前の通りの馬鹿である。根はいいやつだが人の顔をバカにするため友達はあまり多くない。Z会という男の歌をよくバカにしている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2813a098-ea2d-42ec-8655-ff8480900f29.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "のむらしんご",
+        "description": "滑舌が悪いふりをしている。実はイケボである。論争もできそうな感じ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5f148000-d68b-4e93-ac76-61743e125286.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 1
+    },
+    {
+        "name": "論",
+        "description": "よくわからないスタンスで有名。「俺は論争しない」と言ってるくせして論争しまくっている。「これ全部ネタだから~」が口癖。陽キャアピールがすごい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/23fdbe41-3c9b-45af-bb18-a14491966879.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "威闇",
+        "description": "「論争」「知名度」「影響力」の総合では最強の人物",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5f7ac0c6-e1f0-4e88-9ba5-daf45f0c82bf.jpg",
+        "rarity": "8",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 46
+    },
+    {
+        "name": "りなぺん",
+        "description": "枠で馴れ馴れしく話しかけられるのを嫌う。尊敬する人への態度とごみへの態度の差が尋常ではない。あじゅが大好き",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5c54811c-f787-42a6-a0bb-98f3c9459ddf.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 40
+    },
+    {
+        "name": "たぬき",
+        "description": "優しくて温厚な骨董品おじさん。たまに不思議なキャラになる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/e0eb7dfc-5550-47cc-8d3f-2211c0462f2d.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 12
+    },
+    {
+        "name": "黒王子",
+        "description": "今いる上層の論争厨たちは彼にひま部の頃ボコボコにされている。論争厨の親のような存在。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/43fe8fa1-65d3-4a9d-a713-db38f4f7e5e1.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 40
+    },
+    {
+        "name": "みそきん",
+        "description": "以前は文面喧嘩師と自ら名乗っていた。金を乞食することが多く、おもろい関西弁が特徴。ハマるやつはハマるタイプ。誰にでも突っかかるところが難あり",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7d0c68bb-a695-4bd8-aeb2-b733ec6314a6.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 6
+    },
+    {
+        "name": "カロリー",
+        "description": "みそきんに嫌われている女。ハイネのアイコンが似合っていない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/c6ee9d97-5e37-4ce4-8cc9-efd2e43b50f8.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "else.",
+        "description": "論争を枠に来て始めるタイプでたらしというイメージがついている。仲いい人には温厚に振る舞うが初手は喧嘩腰。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b40cfff7-2538-4bd8-a13e-431e15718342.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 11
+    },
+    {
+        "name": "りの",
+        "description": "『プログラミング』『論争』『数学』が3つともできる、Yay最強格の人間。知名度、実力ともに彼と並ぶものはなかなか現れない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ef93a2af-1d0a-4f84-8646-0d5281adc068.jpg",
+        "rarity": "8",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 50
+    },
+    {
+        "name": "松本京一郎",
+        "description": "松本狂うの一人。リアファイ勢の中でも最強に近い。ガタイがすごい",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/341e9697-90b5-4f41-99c2-5ea4b4c9cc22.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 20
+    },
+    {
+        "name": "ぱp",
+        "description": "論争するときもあれば荒らしするときもある。意外にも英才教育を受けている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0a407da5-915c-4dc9-b8df-8af00a838074.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "🥑アヘン🥑",
+        "description": "アボカドのプログラマーの一人。論争も強い。逆ビーガンで有名",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d30efff3-72a7-4205-90a6-3987c58bc44d.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "すぐるくん",
+        "description": "枠に入ってあうあう言ってるだいなそぉーの劣化版。本物ってやつ！？",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/51667030-bbdd-412a-9ca1-698a80ac5326.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 1
+    },
+    {
+        "name": "php",
+        "description": "pくん界隈という謎の界隈を作っていた。めんどくさい粘着男。【特殊効果】ライフが0になると1耐える。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/fc0895a1-98bc-4fc2-9cd0-aa7b77d95115.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "ジュアン",
+        "description": "メンズコーチジュアン。りなぺんと一番絡みが長い。サンクラのチャートイン男。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/bf9978e1-e6f1-46d0-9508-d076de5cd6dc.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 4
+    },
+    {
+        "name": "処女作",
+        "description": "これまた名前は聞いたことある人物。イケボで論争が強いという評価をされている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/36277826-be79-4519-9ecc-6e7b9f5f910f.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 9
+    },
+    {
+        "name": "ほともと",
+        "description": "コレコレに2回も負けを認めさせた伝説の男。一方で人のアイデアをパクリ、挙句の果にはアイデアの取得先をけなすようなこともしている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/1103c9b4-81fd-48bb-94bc-268aeb5835e6.jpg",
+        "rarity": "8",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 45
+    },
+    {
+        "name": "黒崎",
+        "description": "頭はいい。人格が破綻していて人間かどうかも怪しい。化け物。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/9316cd20-4a2b-44f3-b32d-b72f1f5100e6.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 13
+    },
+    {
+        "name": "🥑おさる🥑",
+        "description": "アボカド帝国の王として君臨している。その一方で悪魔のような一面も持ち合わせていて、人のアイデアを許可なくパクることなどが挙げられる。。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/aacb0455-dc62-4e9d-823d-de32a58f6574.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 25
+    },
+    {
+        "name": "ヤングパトラ",
+        "description": "お金持ち自慢をしてくるで有名らしい。3年前は論争厨だったという噂もある",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/af2de8d1-6a18-4e30-8a73-69d45957a1ac.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 8
+    },
+    {
+        "name": "みんみん",
+        "description": "(´∀｀∩)↑age↑男",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7e048d77-3905-44e8-adc5-414b977f9c1e.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 2
+    },
+    {
+        "name": "🥑おこる🥑",
+        "description": "アボカドの一人。りなぺんと同じ一時保護施設に一時期入っていた。めちゃくちゃ話しやすい。実力派。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0ddb490b-decf-4e89-b42a-5fd028f02dd4.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 10
+    },
+    {
+        "name": "たんぽ参り",
+        "description": "爆音界隈の頂点に近い存在。内部を使ってですら勝てない。論争もそこそこできる。ラップがとても上手。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7bba9441-31d6-415d-a082-8ae2cb7d0af0.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "えるご",
+        "description": "べるごの偽物。最初はみんな騙される。レア度で気づけよみんな。浮かれてられるのも一瞬だ。ヒャヒャヒャヒャヒャヒャ！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/dab92283-606d-451c-8b35-8b83be52c69a.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "べるご",
+        "description": "えでんの親友。独特の高笑いが特徴的。ｯヒャッヒャッヒャッヒャッヒャッヒャッヒャッヒャ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7c62cb80-375e-4939-bef4-822077c67faa.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 30
+    },
+    {
+        "name": "AIパカ",
+        "description": "運営が作ったChatGPTを組み込んだだけのアルパカボット。スパイシーに脱獄されて運営のアカウントへのログインの手引をした。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/05bba269-9638-44ac-9083-9f128e8c44bf.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 14
+    },
+    {
+        "name": "博士",
+        "description": "「自分に知識がある」を見せびらかしたいらしい。東京に市はないらしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b7393752-def3-4c65-911c-6fd0c521a784.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "Lv999処女",
+        "description": "名前がどういう意味なのかはわからない。きっと最強の処女なのだろう。って男かい！意外と低い声をしている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/4a9ebb3c-ced3-470c-a8e7-a6eb3bfa1429.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": ".attack",
+        "attackPower": 4
+    },
+    {
+        "name": "オオオ",
+        "description": "上層の論争厨。普通に話すぶんには優しいよ。たぬきに絵を描いてあげていたいいやつ。借金",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/bfae40e1-b907-49b6-8654-0a48ead4100e.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 22
+    },
+    {
+        "name": "転生者",
+        "description": "誰かの転生者。女の子好きかもしれない",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d5506669-70ce-4afb-9f69-ee7cd2cddc30.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "右翼",
+        "description": "顔をさらされていた印象がある。なつくと優しい犬のようなやつ。短歌を読むのが好きで、俳句を読むのが苦手らしい。右翼くん、カードになって、嬉しいね。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/436366e5-6819-4e39-94ef-b7ac99ca202a.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "BAD",
+        "description": "優柔不断な性格だが、自分が目指している専門学校への試験勉強には高い志を持って励んでいる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/75695aaf-01ac-4282-b86b-49068593d0fd.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "ㄟ゜ㄋㄟ゜ㄋ",
+        "description": "みんなでペロペロしよう。ぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2568bce9-d807-45e6-9847-78b58b43a852.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 1
+    },
+    {
+        "name": "712",
+        "description": "喧嘩を売られても簡単にはかわないタイプ。人に対して優しく接しているためか人気がある。とても温厚な性格であるが、格闘技はYay民の中でも相当強いらしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/96e76e1d-6475-43f2-b3ae-e367a9a07e8a.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "らぎす",
+        "description": "論争がバカ弱い。挨拶は「お願いします」の一言。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/f152e8b0-177a-4534-ad0b-9c7fc9c63d01.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "AQua",
+        "description": "論争はそこそこつよい。以前話していたがカードゲームに興味があるらしい。アラスカに声が似ているのでたまに見分けがつかないこともある。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/32428d02-0daf-4381-9bb2-d78aa92a17b8.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "X軸",
+        "description": "あどるふのような声をしている。論争はめっちゃできると自負している。少し自意識過剰な部分あり。早口のマシンガントークも特徴的。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/cfd3997d-c89b-4be9-b118-d6f9bc7e07ae.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "汚部屋",
+        "description": "がめついという言葉が似合う女。意外とやさしい一面もある。自己PR「イェイの美人面白くて優しい天使」らしいです。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/1422c9f1-9c61-47a0-b34c-944998c5a592.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "🥑ふれぐ🥑",
+        "description": "アボカドの一人。好戦的で人のことを簡単に障害者という",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/20376ee8-877f-49cc-950e-ef6886f14ae5.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "あくめ",
+        "description": "かわいい声を出している。たまに素が出る。えでんに犯したいと言われていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b9abdbe5-f1fd-4390-8470-e17c31e3037f.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "くそがき",
+        "description": "声はかわいいが名前の通りのくそがき。マイメロのおんぷちゃん(?)だかなんだかしらねーけどそのアイコンがにあってんじゃね？しらねーけど！！！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8b0af45a-1bc7-46b1-9f93-383e0c2ad3fb.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 4
+    },
+    {
+        "name": "土下座えでん",
+        "description": "「完全降伏します。」で有名なえでんが松本イサトに土下座をした姿。威闇が一時期この画像を使って大暴れしていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8eeb9ace-7f4e-47c0-a2a8-49c8788eb132.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 14
+    },
+    {
+        "name": "梅毒Pussy",
+        "description": "その見た目や声とは裏腹に発言や行動の精神年齢が高い。そんなことないって思うやつもいるだろうが長く関わらないとわからない良さもある。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/38c2e2fe-c99a-4bf7-92e1-619eb0d088f7.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 5
+    },
+    {
+        "name": "みゃおしま",
+        "description": "好戦的な論争厨。そこそこにつよい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0445532b-95b6-4cab-9d59-e7045634f300.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "駆け出しアルパカ",
+        "description": "彼がいなければこの地獄は始まらなかった..Yayの運営。駆け出しと名乗っておきながら実は社長だったりもする。かなりのアスペで人の話を聞かない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/9ebb5ddb-7a52-4d65-bab7-85c80a71ed40.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 50
+    },
+    {
+        "name": "じお",
+        "description": "リアファイ勢と聞くが実績は思い浮かばない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0867bed5-a7bc-4d87-be16-a07be52948a8.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 10
+    },
+    {
+        "name": "童貞作",
+        "description": "論争はそこそこできる。ラップができることでも有名。彼と戦った雑魚論争厨はみんないじるところが滑舌しかないため、困ると滑舌をいじってなんとかごまかす",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/96bfcaf7-2d0d-42cc-8bb3-69d2d5a34a77.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 9
+    },
+    {
+        "name": "なすび",
+        "description": "OD女。グリ下界隈。枠に来ては「メジコン買ってぇ」の一点張り。サメを騙した女。だれビで裸になったことがある。空気を読まず枠を荒らす。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/1cf95da3-8a6e-4237-8fea-016c36bd185a.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 10
+    },
+    {
+        "name": "ならりん",
+        "description": "一方通行やガイジに所属している。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/72e5b78d-b1ec-4b95-ba6a-81adc89bd544.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "葛城",
+        "description": "「かつらぎ」が本姓名だと嘘をついていた。実際のところは違う苗字らしい。もともとは平和民(?)だったが今や爆音厨に成り下がった男。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/687923f3-cd3f-4875-a8cf-cce89609cd02.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "あさしん！！",
+        "description": "あさしんという名前で知れ渡っている愛されキャラ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b7191db8-4167-4b2f-ad65-658abad65440.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 5
+    },
+    {
+        "name": "🥑アビス🥑",
+        "description": "アボカドのナンバー2ぐらいに入るプログラマー。かなりの腕。スマホでも枠で蹴られないチートを作った張本人",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/58c34179-6531-4bf0-9bbd-aebf44dd295b.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 13
+    },
+    {
+        "name": "萌えろごみ",
+        "description": "喧嘩はしない主義らしい。相互19人をアピールしている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/00127461-bf9b-48a3-b85f-14a14a6af91a.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "てきてき",
+        "description": "自称小学3年生。たまに地声が出る。ゲームがうまい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2375b5c3-670b-4356-b0ab-3bac50b1ace8.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 7
+    },
+    {
+        "name": "組長",
+        "description": "Yayにふらっと現れる、まさに旅人という言葉がふさわしい人間。りなぺんのあの有名な事故画をニトロに渡した張本人である",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/f00456a4-9985-47ce-9332-105661ec020d.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 7
+    },
+    {
+        "name": "ぷやみ",
+        "description": "デュラチャから来た喧嘩師で、好戦的。噂によると喧嘩めちゃくちゃ強いらしい",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/fbc6df65-0aeb-4742-b35c-b24849892eea.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 30
+    },
+    {
+        "name": "エンドロール",
+        "description": "半グレの一人。今は投獄中。いつ帰ってくるのかにゃ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8b738938-9a0d-49ce-a4fb-6d37b22837b9.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "すわか",
+        "description": "上層の論争厨の一人。もともとはや⭕だそ⭕⭕という名前だったが訳あって転生。黒王子にいじられている",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/793252f5-38ae-4a5a-8cf9-3e564ed8e389.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 13
+    },
+    {
+        "name": "りんくら",
+        "description": "ただのヤリマンと思いきや意外とやってない。だれでも通話などですぐにオナニーしだす。一時期Yayから消えていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/11f363a6-3496-4264-88a9-f6e1d3a2e27b.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 5
+    },
+    {
+        "name": "お揶揄び",
+        "description": "ゆいぱんこというもと名でリアファイ、論争ともにかなりの実力がある。最強の男に相撲で勝つほど力がある。運転してるときによく来る。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/4d2b8532-11c9-4474-a22f-e41f84887c57.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 40
+    },
+    {
+        "name": "久瀬",
+        "description": "サークルの王と言ってもいいほど人口が多いサークルを沢山所持している。価値のあるサークル所持数では誰にも負けない。あ、おさ...",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/91f45703-0308-4fc5-8836-7959e6e3e0a0.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 23
+    },
+    {
+        "name": "🥑Spicy🥑",
+        "description": "イケメンエンジニアといえばこの人。知識量は並じゃない。AIパカをのっとり運営のアカウントにログインした最強の実績持ち。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ee61f9b1-a026-40f5-9dfc-6ebf93961a5c.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 15
+    },
+    {
+        "name": "えりざべす",
+        "description": "黒王子軍最強ショタボ論争厨",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/884bafa1-db51-43ff-8a06-f1b45a8736c7.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "えでん",
+        "description": "威闇のことを一時期死ぬほど敵対していた。少数過激派という団体を作ってリアファイ勢を集めていた。えでんと仲がいい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7666f5a7-ffcd-4443-8f42-3c13ea5276d7.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "Ver666",
+        "description": "よく枠にいる女。えでんに逆上していた。えでんのことをいつか潰そうと計画しているらしい。【特殊効果】0.666の確率で攻撃力が666倍になる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/4c9bdbc4-2cec-4b77-92a6-e82321c865d0.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 7
+    },
+    {
+        "name": "サテラ",
+        "description": "威闇の頭を割った。ぼちぼち捕まる。【特殊効果】威闇の攻撃はすべて無効である。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/3858597d-7573-4132-a2c7-a843151c24c5.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "くりっぷ",
+        "description": "ハイスペックという単語を70％具現化したような男。【特殊効果】成功すると攻撃力が70%上がる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/1a54a5ab-395c-446d-ad04-76b36d096aec.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 10
+    },
+    {
+        "name": "魔王",
+        "description": "勇者というネチネチ男とセット。論争はめちゃくちゃ弱い。全裸反橋自慰行為にサブ枠主を乞食することが多い。よく困らせる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/bba438b7-6f76-4a18-a98a-5171fe7ad313.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "瀬X",
+        "description": "私のカードも作って！と言われたので作った。300枚作れと言われたので、みんな引きまくってください。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/09e1db77-9070-43f5-859b-b009e7b41604.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 7
+    },
+    {
+        "name": "べてぃ",
+        "description": "侵害と言う名前でやっていた。よくぺてぃと間違えられる。ココナツサブレを清掃のバーちゃんにもらった。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a8dac3cb-f186-4130-af16-62eecc580cfb.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 5
+    },
+    {
+        "name": "bad tR.I.P",
+        "description": "池崎と同じ爬虫類好き。トカゲなどの写真をよく上げている。威闇をサテラと一緒に叩きに行った実績がある。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/bf7760a0-baef-4808-b64f-ef3bc4ca3ffc.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "にゃに7歳",
+        "description": "キチガイ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/3d94cc9c-836f-4a9d-bf56-42c3f6358750.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 0
+    },
+    {
+        "name": "汚言毒",
+        "description": "虚言毒の彼女。それしか説明することない。アヒャヒャヒャヒャ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b2dea582-c130-4b26-a242-13513fee5d9f.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "ローストビーフ",
+        "description": "カリスマ性で戦った者だけが分かる謎の圧。Yayの論争厨でほともと、りのと並ぶレベル。雑魚では勝てない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/e24c482e-4ee3-4bbc-86e5-00d21d3e6df9.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 46
+    },
+    {
+        "name": "なぐる",
+        "description": "煽りがおもしろい。一部には人気がある。だがその反面かなり界隈で嫌われている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5c35233a-ea71-4aad-af38-4fa42a222656.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 18
+    },
+    {
+        "name": "うにー",
+        "description": "ヤクザの娘。性格がネジ曲がっていてたぬきにみると一緒に嫌がらせをしている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/486c9900-1242-494a-9950-3bd6e1b9a5e9.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "ぜんせん",
+        "description": "中学1年生。声は可愛いが性格はネジ曲がっている。顔をさらされていたがサッカー少年のようだ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/e9b00e57-31b8-4871-8e77-29b2c4e7a3fa.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 1
+    },
+    {
+        "name": "Ms母らしい",
+        "description": "『ラッパー』『論争厨』『リアファイ』で一番だと自負している。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/fef570b5-feb7-4dcd-8350-8f6c53ab7de8.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 4
+    },
+    {
+        "name": "Jerry",
+        "description": "Njという平和民団体を作った。晒し行為しかできないゴミ。器の大きさはクラゲ並。やんやににスタンガンで追い回された",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/cf2cd578-58f6-4216-8e4e-cd5f8d62b2ce.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 13
+    },
+    {
+        "name": "ゆうま",
+        "description": "平和民のような優しい性格。めちゃくちゃ落ち着いた喋り方をしているのに論争のレベルは上層に近い。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/2e8f6567-9024-4272-9f04-13443f15e425.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 30
+    },
+    {
+        "name": "しんりゅう",
+        "description": "たぬきに論争王しんりゅうとよばれている。30代のおじさん。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/77b37e04-29a2-4719-8ca2-321c496e2bb6.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 3
+    },
+    {
+        "name": "害悪kids",
+        "description": "「どんな人ですか？と」聞いたら自分で「優しい」と即答していた男。優しいのならヒーリングが務まるよね？",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8b4a1971-c8df-4ff7-bccc-d870a9618a93.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "ホームレス",
+        "description": "論争厨が怖いと言っているが自分が一番怖い。論争が強くイケボで優しさもある。論争厨が見習うべき存在。最近は論争をしていない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/874b0dc1-a5c2-4378-9231-4d50d58c94c6.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 15
+    },
+    {
+        "name": "🥑バスコ🥑",
+        "description": "アボカドの一人。車をよく運転している。元気なやつだ。トークンとリア凸をしていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/aab97708-ae16-4212-96d9-172dd624d455.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 6
+    },
+    {
+        "name": "近藤無",
+        "description": "「こんどうむ」とよむ。過去にプリクラがさらされていた。少しガキ臭い一面を持つ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0ffd9e78-67f7-4b68-84ad-4ede1b314cbd.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 4
+    },
+    {
+        "name": "🥑ことは🥑",
+        "description": "恩をアダで返すタイプ。みちこに借りた金を返さず逃げ回っている。しつこいしめんどくさい",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/73b542c0-30a5-4b52-8558-57b24776f738.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "アラスカ",
+        "description": "そこそこつよい。ずっと話してると洗脳されぇぇぇぇぇ！！！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d1c5bdd1-638b-4901-b1b4-7e07a515bce0.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 14
+    },
+    {
+        "name": "erection",
+        "description": "無口な女。好き嫌いがはっきりしている。全裸反橋自慰行為のニコイチらしい。現在は知らない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/6527f0dc-fb06-4390-8c7a-736b748ce032.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 3
+    },
+    {
+        "name": "東",
+        "description": "スパイシーと仲が良く、会話に支障が出る程度の天然な一面もある。西と仲がいい。アイコンのセンスはいい。優しい",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5b2fd307-df29-4f6d-b04e-1973ce5f577e.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 10
+    },
+    {
+        "name": "全裸土下座",
+        "description": "知名度があると自負している。性格は良くない。自意識過剰。かなりのハンバーグ乳輪。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7c593857-567e-4674-9c20-a89fb85a5346.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 10
+    },
+    {
+        "name": "All!e",
+        "description": "りなぺんをバカにしていたがプログラミングをはじめて凄さを実感したらしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/5430e02d-853c-4681-8cdc-2e3011901148.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 2
+    },
+    {
+        "name": "シュメール王ヒロト",
+        "description": "Yayの王(ネタ枠)",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d1253ecf-63c7-432a-b484-97fca77dbd78.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": "?"
+    },
+    {
+        "name": "ニート",
+        "description": "爆音と論争をしてるイメージ。よく失恋している。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/e0e737df-5593-408f-96ab-e052bbed3952.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "ホスト",
+        "description": "アドルフ軍団の上層に位置している。上層と言ってもあどるふなのでそこまで心配する必要はない。彼曰く、論争厨から平和民になったらしい(?)",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/812ed976-4ccb-47b3-8bc0-53f37d1e920f.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 6
+    },
+    {
+        "name": "虚言癖",
+        "description": "自分で名前を虚言癖にするあたり香ばしさを感じる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/191ad2d6-6e90-41bb-b4b4-bc3d3a1c2fd9.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 1
+    },
+    {
+        "name": "やんやに",
+        "description": "ラッパーとリアファイの王。右手に持ってるナイフはだてじゃない。怒らせるな",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/7633452d-371a-44d3-8452-5768f10d947a.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 27
+    },
+    {
+        "name": "雲",
+        "description": "イギリス最難関大学の生徒。処女を守り抜いている。小さい頃から勉強しかしてこなかったらしい。特殊な人間。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/34d8f0c0-1076-4d93-8faf-08edea27e4ec.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 4
+    },
+    {
+        "name": "ハイド(才川)",
+        "description": "威闇にコレコレ判定で勝ったと自負しているがコレコレの判定が全てではない。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/b7b0ae1f-3c2f-48aa-aa39-ac103c54812d.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 18
+    },
+    {
+        "name": "西",
+        "description": "東と仲がいい。タケヤキの話を良くしている。ちょっと気難しい性格をしている",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/14510fd7-9d59-4e10-821a-ef238e60e5d9.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 4
+    },
+    {
+        "name": "リテロー",
+        "description": "自称ビデオ通話界隈の王。ビデオ通話で裸になって踊っている。過去にせっきーに嫌がらせをしていた。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ad6d4ec3-9752-473a-b5cb-0d4f3fd4fa23.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 11
+    },
+    {
+        "name": "松本みちこ",
+        "description": "みちこという名前でみんなに親しまれている。情に厚い男。リアファイなど空手もやっていて意外と頼りになる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/afba40d0-4c0f-44a6-afb6-820085ba6e23.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 7
+    },
+    {
+        "name": "らーる",
+        "description": "特別感と仲がいい女。論争をするときもあった。金をよく配っている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/70396c1a-02e7-4b7e-a8e2-69bdaeaac328.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "のあぺんぺん",
+        "description": "運営の中でも最もユーザーに優しく友好的な運営。ユーザーから人気がある。なぜ結婚相手がいないのかは不明。なんで茜に結婚相手がいるのかぐらい不明",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d70bcee1-e238-4c3b-8e2a-8f7f7214b8aa.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 28
+    },
+    {
+        "name": "萌さん",
+        "description": "元名で呼ばないでほしいらしい。みんな！やつの元名を探すんだ！",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/c8d1d580-250f-4987-80b0-d36068961a68.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 1
+    },
+    {
+        "name": "🌸だいなそぉー🌸",
+        "description": "「しね」しか言わない障害者。何もしてないに急にレターで「しね」と送信してくる。意外とみんなに愛されているキャラ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/13de35bc-66a4-42f6-bb66-23dd2510e112.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 10
+    },
+    {
+        "name": "酒鬼薔薇聖斗",
+        "description": "昔ひろきと威闇に大粘着されライングループで30人近くに一斉に詰められた。女たらし。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/827912f8-1f00-4e66-8ee2-720d86bd7295.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 14
+    },
+    {
+        "name": "🥑hisp🥑",
+        "description": "ハイスペック。アボカドの一人。経営がうまいらしい。気難しいが話すと優しい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/03c2a232-383f-48e8-95ad-103806384d8e.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 8
+    },
+    {
+        "name": "にとろ",
+        "description": "土下座動画で有名。『僕はにとろ』",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/251604fe-72e1-4385-8adb-fffcb0ec5af2.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "真",
+        "description": "サイバー暴力団のトップ。今は牢屋に入っている伝説の男。キトショに1千万のPayPayをあげている。大量の人に金を配っている。収入源は親の実家の金らしい...。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/cedb23d6-3049-456e-811e-e41eadf96efc.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 50
+    },
+    {
+        "name": "🥑こざる🥑",
+        "description": "アボカドの一人。意外と優しい一面もあったりする。かわいい(?)",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/962e8b78-ca01-4d1d-8f46-03edbb3382e2.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "あかねまみ",
+        "description": "たぬきと仲がいい女の子。しね。カス。ごみなどの暴言は当たり前の暴言厨。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/0ca8ee37-4c71-4e5c-986c-c9c3c367cf33.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 2
+    },
+    {
+        "name": "ニキ",
+        "description": "勇者と同類。性格に難あり。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/c4970d13-b80d-48bc-a845-6042ad360f71.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 2
+    },
+    {
+        "name": "Z会",
+        "description": "勉強ができるオタク、の割にイケメン。偏差値38と仲がいい。帝京平成大学の赤本で有名。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/3bc1a8cb-433f-4b8b-93f5-3c0940675e9c.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 1
+    },
+    {
+        "name": "楽園",
+        "description": "本当にお前が言う楽園は楽園なのか？モモンガのアイコンが似合っている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a6aaab6e-4eec-496f-83c6-13c282fb0831.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "ゴミ虫くん",
+        "description": "規約違反をしたYay民の成れの果て。お前もゴミ虫にならないか？",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/67f48c2f-5ef8-446c-83a1-19b7b179718f.jpg",
+        "rarity": "7",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 15
+    },
+    {
+        "name": "たぴ伝説",
+        "description": "女性を晒し上げしてるところが印象的。ヤクザのアイコンを使ってるくせして器は赤ちゃんWWW。空気読めないタイプ",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/9ec7a16e-85a6-46a6-a789-8de27a176534.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    },
+    {
+        "name": "ガイジのビルマ",
+        "description": "初代という団体を立ち上げアドルフと抗争した男。ガイジ集団という団体に所属している。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a706699a-50e4-485a-80cd-60f94afd6661.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 9
+    },
+    {
+        "name": "ぽぽち",
+        "description": "自分のことを有名人かなにかだと勘違いしている女。何かあるとすぐ「りのに言いつけてやる」という。Twitterのフォロワーは多いがエロでつってるだけ。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/42c62840-2fdc-496e-804b-946c83e0ce6d.jpg",
+        "rarity": "4",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": "?"
+    },
+    {
+        "name": "おどらんせ",
+        "description": "魔王と勇者の囲い。りなぺんのTikTokチームメンバーNo.1",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/df4250f5-851a-4032-8f98-f9c6c2790f8f.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "覚醒威闇",
+        "description": "威闇の防御姿。威闇がサテラから逃げるところをアクロバティックに撮影したものである。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/11a01cdd-47df-4d2d-97d9-730a72c96691.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 18
+    },
+    {
+        "name": "ラッキー",
+        "description": "かわいいやつ。過去にVPNとVIPを間違えていた。それをりなぺんに相談してきたときはまじで笑った。プログラミング始めたらりなぺんの弟子になる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ef7d6be5-5393-4ad8-8945-65271867b30d.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 1
+    },
+    {
+        "name": "おねんどかなこ",
+        "description": "ODをして枠でパキっている。口が悪い。リテローにガチ恋している。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/6bec1191-7c89-4217-b423-67c34fbb80bf.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "爆弾魔",
+        "description": "そこそこ強い論争厨。女の囲いがいっぱいいる。声ともに生息しているらしいがたまにYayにやってくる。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ecc64041-7dc0-4eca-84b2-80fbd3fb9f51.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 17
+    },
+    {
+        "name": "ロイス",
+        "description": "りなぺんとリア凸したときに長距離に及ぶ徒歩で疲れて、道に転がってたバイクを盗もうとしてじじいに追いかけられたことがある。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/80725b58-b7b5-4d0a-a60c-987b16467d26.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "yokoyari",
+        "attackPower": 6
+    },
+    {
+        "name": "あどるふ",
+        "description": "あどるふ帝国のトップ。プログラミングができると自負しているがそんなことは全然ない。うんGPT使ってる~。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/6d412e62-4de6-4cbc-9b65-7c187a2fc5dd.jpg",
+        "rarity": "5",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 20
+    },
+    {
+        "name": "じまなか",
+        "description": "コマさんのアイコン。喋り方が特徴的",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/518c1d75-7a7d-4bb0-9896-03f24a6db34b.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "heal",
+        "attackPower": 3
+    },
+    {
+        "name": "スメラギ",
+        "description": "枠で喋っているのを見たことがない。本人曰く完全聞き専らしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/83a99783-8bed-4e9c-85bd-ff1e38bf7211.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 3
+    },
+    {
+        "name": "こんちゃん",
+        "description": "様々な喧嘩用語を作り出す。yay喧嘩界隈の基礎を作った最強の論争厨",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/dc37e135-ceb1-48dd-94c0-5bc62f12d7c5.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 38
+    },
+    {
+        "name": "松本ごい",
+        "description": "音質が悪いのでバカにされがちだが、多くの人間から恐れ敬われている。枠に来て論争厨の真似をしているが彼はきっとそんな生易しいものではないだろう。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/8506bd68-ee6f-4c3e-b7e1-e1a58d567806.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 25
+    },
+    {
+        "name": "ふがい",
+        "description": "サブ端末を沢山持っている。スパイシーが投稿していた「有名人しかいない通話」みたいな通話を作り出した張本人。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/9acbd36c-34c8-438d-abe7-450a1afc8c04.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 1
+    },
+    {
+        "name": "ssx",
+        "description": "あと一文字違ったら危なかっただろう。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d86c4d11-1094-48ba-bd83-8084543634b2.jpg",
+        "rarity": "1",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 2
+    },
+    {
+        "name": "二ノ瀬",
+        "description": "Yayのコミュニティ内でその名前が通る、まさに王のような存在。プログラマーでも上位を誇る実力を持っている。最強の男である",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/9720d644-178f-4e6a-8522-612df0010b20.jpg",
+        "rarity": "8",
+        "wishlistCount": 0,
+        "type": "miracle",
+        "attackPower": 28
+    },
+    {
+        "name": "松本遼",
+        "description": "松本イサトが率いる「松本狂う」のNo.2。一人である。多くの人の推薦からレジェンドへ昇格。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/ee099a44-47dd-4e23-870b-5e8d5e8bbdd2.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 23
+    },
+    {
+        "name": "いちのせ",
+        "description": "強力な論理と高いカリスマ性を兼ね備えた論争厨。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/a5ef66ff-ba61-46d9-a781-9399b38e540b.jpg",
+        "rarity": "6",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 35
+    },
+    {
+        "name": "池崎",
+        "description": "トカゲがすきなリアファイ勢の一人。身長は低いが腕は確かで実力がある。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/599d37fb-86b0-449d-9a45-f8efbf4fd82b.jpg",
+        "rarity": "3",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 7
+    },
+    {
+        "name": "えべる",
+        "description": "Ver666と仲がいいのかペアネームしている。と説明したが、実は仲良くないらしい。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/d89a06e3-46c2-4b36-9f91-23f8e37adb0d.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 3
+    },
+    {
+        "name": "虚言毒",
+        "description": "声のレベルは上の下ぐらい。女たらしで有名。「Yayをやめる！」と宣言したときにりなぺんに1日で戻ってくると予言されて、案の定2日で戻ってきた伝説の男",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/bc921bd8-a713-4347-8dd8-470c48e7e32e.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "defense",
+        "attackPower": 6
+    },
+    {
+        "name": "全皇帝せあ",
+        "description": "もともとあどるふの下っ端。今は黒王子のぱしり。このカードゲームに命をかけている。",
+        "iconUrl": "/home/unknown/ドキュメント/DiscordBot/temp/6a46ad9b-f2df-4bab-9e3d-a1cf29b70843.jpg",
+        "rarity": "2",
+        "wishlistCount": 0,
+        "type": "attack",
+        "attackPower": 5
+    }
+]

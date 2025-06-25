@@ -1,0 +1,32 @@
+{
+  "name": "gf_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "deploy": "node deploy.js",
+    "start": "pm2 start index.js --name \"gf_bot\"",
+    "stop": "pm2 stop gf_bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.53",
+    "better-sqlite3": "^11.1.2",
+    "bufferutil": "^4.0.8",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^14.15.3",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2",
+    "utf-8-validate": "^6.0.4",
+    "zlib-sync": "^0.1.9"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0",
+    "prettier": "^3.3.3"
+  }
+}
